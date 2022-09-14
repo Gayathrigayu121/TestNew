@@ -68,6 +68,7 @@ public class BaseClass {
 		spark.config().setReportName("Urban_SDK");
 		 
 		test = extent.createTest("Login Test").assignCategory("smoke").assignDevice("EdgeDriver");
+		
 		/**
 	     * Generate PDF name using date and time
 	     */
