@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<title>UrbanSDK</title>
+		<titleColor>c61a54</titleColor>
+		<startTimesColor>5c2d91</startTimesColor>
+		<finishTimesColor>5c2d91</finishTimesColor>
+		<durationColor>00FFFF</durationColor>
+		<passCountColor>006775</passCountColor>
+		<failCountColor>006775</failCountColor>
+		<passColor>168448</passColor>
+		<failColor>720000</failColor>
+		<skipColor>b17750</skipColor>
+		<warnColor>ffc100</warnColor>
+		<infoColor>114444</infoColor>
+		<categoryTitleColor>c61a54</categoryTitleColor>
+		<categoryNameColor>5c2d91</categoryNameColor>
+		<authorTitleColor>002288</authorTitleColor>
+		<authorNameColor>c61a54</authorNameColor>
+		<deviceTitleColor>c61a54</deviceTitleColor>
+		<deviceNameColor>c61a54</deviceNameColor>
+		<systemTitleColor>bb1144</systemTitleColor>
+		<systemNameColor>c61a54</systemNameColor>
+		<systemValueColor>5c2d91</systemValueColor>
+		<exceptionTitleColor>000000</exceptionTitleColor>
+		<attributeTestStatusColor>5c2d91</attributeTestStatusColor>
+		<testNameColor>c61a54</testNameColor>
+		<testTimesColor>5c2d91</testTimesColor>
+		<testTimeStampColor>0078d4</testTimeStampColor>
+		<testExceptionColor>990000</testExceptionColor>
+	</configuration>
+</extentreports>
