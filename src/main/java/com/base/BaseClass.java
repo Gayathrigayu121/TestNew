@@ -28,8 +28,6 @@ import com.aventstack.extentreports.reporter.configuration.ViewName;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import tech.grasshopper.reporter.ExtentPDFReporter;
 
-
-
 public class BaseClass {
 
 	/**
@@ -101,8 +99,6 @@ public class BaseClass {
     driver.get(urlP);
   
 	}
-	
-	
 	
 	@AfterClass
 	public void close() throws IOException {
