@@ -10,6 +10,7 @@ pipeline{
         stage('Test'){
             steps{
                 echo "Testing the Project"
+                bat "mvn test"
             }
         }
         stage('relase'){
